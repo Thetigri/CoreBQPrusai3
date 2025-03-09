@@ -5,9 +5,11 @@ PROBLEMS
 -doesnt have heatbed
 -firmware doesnt allow heatbed
 -doesnt have layer cooling
+-(0,0 is off center)
 TO DO LIST
--todo1
--todo2
+-Install the heatbed we have
+-Update the firmware to support a heatbed
+-Re-upload firmware to fix (0,0)
 ITEMS
--item1
+-Buy 5015 fan for layer cooling
 -item2
