@@ -12,4 +12,9 @@ TO DO LIST
 -Re-upload firmware to fix (0,0)
 ITEMS
 -Buy 5015 fan for layer cooling
+![5015 fan](https://thepihut.com/cdn/shop/products/5015-12v-blower-fan-the-pi-hut-105010-35179527602371_1500x.jpg?v=1650540776)
 -item2
+
+
+Maybe learn klipper and install klipper?
+![Klipper](https://www.fabbaloo.com/wp-content/uploads/2021/03/klipper-logo.jpg)
